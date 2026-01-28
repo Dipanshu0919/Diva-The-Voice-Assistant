@@ -10,7 +10,7 @@ It uses the Web Speech API to recognize voice commands and perform simple action
 ![Listening](assests/listening.JPG)
 
 - Command Response
- ![Command Response](assests/command_response.JPG)
+  [Command Response](assests/command_response.JPG)
 
 ## 🚀 Features
 - 🎤 Voice Recognition using Web Speech API
